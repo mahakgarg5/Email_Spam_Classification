@@ -1,0 +1,8 @@
+How to create this project requirements:
+python -m venv myenv
+myenv\Scripts\activate
+pip install streamlit
+pip install nltk
+python -m pip install scikit-learn
+pip install transformers
+pip install torch
